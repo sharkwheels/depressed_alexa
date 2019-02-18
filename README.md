@@ -1,0 +1,2 @@
+# depressed_alexa
+Sad Home (Depressed Alexa 1.0) is an ongoing project that explores the concepts of system dynamics as it could be applied to depression. A custom system generates spoons (resiliance), moods, and perceptions for an Alexa Echo. As the device is used, its spoons are depleted, and the system dynamically updates itself. Alexa employs an avoidant coping strategy towards tasks by trying to frustrate the user into qutting with a yes / no dialog flow.
