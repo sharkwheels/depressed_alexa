@@ -6,8 +6,6 @@
 # https://developer.amazon.com/blogs/alexa/post/a3149c48-b81b-4b89-8fc3-2d11ec28a3a3/effective-ways-to-write-sample-utterances
 # https://developer.amazon.com/blogs/post/tx3ihsfqsuf3rqp/why-a-custom-slot-is-the-literal-solution
 # https://mntolia.com/mqtt-python-with-paho-mqtt-client/
-## pi: https://punchtheinternet.ngrok.io/depressed
-## computer: https://bottester.ngrok.io 
 #################
 
 import os
